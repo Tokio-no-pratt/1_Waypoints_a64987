@@ -1183,8 +1183,8 @@ MonoBehaviour:
   - {fileID: 1130604363}
   - {fileID: 1635124278}
   speed: 50
-  rotSpeed: 50
-  lookAhead: 0
+  rotSpeed: 40
+  lookAhead: 5
 --- !u!4 &514310490
 Transform:
   m_ObjectHideFlags: 0
@@ -1672,8 +1672,8 @@ MonoBehaviour:
   - {fileID: 1130604363}
   - {fileID: 1635124278}
   speed: 50
-  rotSpeed: 50
-  lookAhead: 0
+  rotSpeed: 40
+  lookAhead: 5
 --- !u!4 &690140412
 Transform:
   m_ObjectHideFlags: 0
@@ -1906,7 +1906,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 40
   rotSpeed: 3
-  lookAhead: 0
+  lookAhead: 5
 --- !u!4 &761021965
 Transform:
   m_ObjectHideFlags: 0
@@ -2323,7 +2323,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 15
   rotSpeed: 10
-  lookAhead: 0
+  lookAhead: 5
 --- !u!4 &850753778
 Transform:
   m_ObjectHideFlags: 0
@@ -2617,7 +2617,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 15
   rotSpeed: 15
-  lookAhead: 0
+  lookAhead: 5
 --- !u!4 &960238288
 Transform:
   m_ObjectHideFlags: 0
@@ -3148,7 +3148,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 15
   rotSpeed: 15
-  lookAhead: 0
+  lookAhead: 5
 --- !u!4 &1188408313
 Transform:
   m_ObjectHideFlags: 0
@@ -3345,7 +3345,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 15
   rotSpeed: 10
-  lookAhead: 0
+  lookAhead: 5
 --- !u!4 &1294958555
 Transform:
   m_ObjectHideFlags: 0
@@ -3848,7 +3848,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 40
   rotSpeed: 3
-  lookAhead: 0
+  lookAhead: 5
 --- !u!4 &1543139083
 Transform:
   m_ObjectHideFlags: 0
@@ -5512,8 +5512,8 @@ MonoBehaviour:
   - {fileID: 1130604363}
   - {fileID: 1635124278}
   speed: 50
-  rotSpeed: 50
-  lookAhead: 0
+  rotSpeed: 40
+  lookAhead: 5
 --- !u!54 &2713447972708953234
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6694,7 +6694,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 40
   rotSpeed: 3
-  lookAhead: 0
+  lookAhead: 5
 --- !u!54 &7863693248642204186
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6781,7 +6781,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 15
   rotSpeed: 15
-  lookAhead: 0
+  lookAhead: 5
 --- !u!54 &7871142010654116012
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7010,7 +7010,7 @@ MonoBehaviour:
   - {fileID: 1635124278}
   speed: 15
   rotSpeed: 10
-  lookAhead: 0
+  lookAhead: 5
 --- !u!54 &9048989675280529227
 Rigidbody:
   m_ObjectHideFlags: 0
